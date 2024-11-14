@@ -1,0 +1,38 @@
+# 10-Leer el estado del sistema (Administrador de tareas)
+## Características Principales
+   ## Comando ‘Ctrl’ + ‘Alt’ + ‘Supr’
+Uso de CPU:
+ Puede obtener el porcentaje de uso de la CPU en intervalos de tiempo.
+
+Núcleos de CPU:
+ Información sobre cada núcleo de CPU.
+
+
+Memoria Virtual:
+ Proporciona información sobre el total, usado, libre y porcentaje de uso de la memoria virtual.
+
+Memoria Swap:
+ Información sobre el uso de swap.
+
+Particiones de Disco: 
+
+ Información sobre todas las particiones de disco.
+
+Uso de Disco: 
+ Detalles sobre el espacio total, usado y libre de cada partición.
+
+Interfaces de Red:
+ Información sobre las interfaces de red disponibles.
+
+Tráfico de Red:
+ Estadísticas sobre el tráfico de red, como bytes enviados y recibidos.
+
+Listar Procesos:
+ Enumerar todos los procesos en ejecución.
+
+Información de Procesos: Detalles sobre cada proceso, como PID, nombre, usuario, estado y uso de recursos.
+
+
+Temperatura del Hardware: Información sobre la temperatura de la CPU y otros componentes (dependiendo del sistema operativo).
+
+Ventiladores y Baterías: Datos sobre el estado de los ventiladores y las baterías (en laptops).
