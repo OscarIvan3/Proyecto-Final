@@ -1,0 +1,21 @@
+<H1>Un Sistema de Control de Versiones</H1>
+
+ (VCS, por sus siglas en inglés) es una herramienta esencial para el desarrollo de software y la gestión de proyectos. Aquí tienes algunos conceptos clave:
+
+Versionado: Permite llevar un registro de todos los cambios realizados en los archivos a lo largo del tiempo. Puedes volver a versiones anteriores si es necesario.
+
+Colaboración: Facilita el trabajo en equipo, permitiendo que varios desarrolladores trabajen en el mismo proyecto de manera simultánea, sin sobrescribir el trabajo de los demás.
+
+Ramas: Puedes crear ramas (branches) para desarrollar nuevas características o corregir errores de forma aislada, y luego fusionarlas (merge) con la rama principal cuando estén listas.
+
+Historial: Mantiene un historial detallado de quién hizo qué cambios, cuándo y por qué, lo que ayuda a entender la evolución del proyecto.
+
+Recuperación ante fallos: En caso de errores o problemas, es posible recuperar una versión estable del proyecto rápidamente.
+
+Algunos de los sistemas de control de versiones más populares incluyen:
+
+Git: Uno de los más utilizados, conocido por su flexibilidad y robustez.
+
+Subversion (SVN): Un sistema centralizado que también es muy popular en la industria.
+
+Mercurial: Conocido por ser fácil de usar y tener un buen rendimiento.
