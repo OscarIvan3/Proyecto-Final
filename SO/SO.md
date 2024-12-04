@@ -1,4 +1,4 @@
-#¿Qué es un Sistema Operativo?
+# ¿Qué es y que servicios ofrece un sistema operativo?
 
 Es un software que hace de intermediario entre el usuario y la máquina. Se encarga de gestionar:
 
